@@ -22,6 +22,10 @@
                 </caption>
                 <!-- The second child of the table element should be the colgroup element, which also contains several col elements, and helps define the purpose of the table colums. -->
                 <colgroup> 
+                    
+                </colgroup>
+                <!-- The table head element should be the third child of the table element; it will wrap the code and content to define a row of column headers. -->    
+                <head>
                     <tr>
                         <td col span="2"></td>
                        <td><b>Name</b></td>
@@ -36,34 +40,19 @@
                        <td><b>Notes</b></td>
                        <td><b>Image</b></td>
                     </tr>
-                </colgroup>
-                <!-- The table head element should be the third child of the table element; it will wrap the code and content to define a row of column headers. -->    
-                <head><tr>
-                    <td rowspan="4"><b>Terrestrial Planets</b></td>
-                    <td><b>Mercury</b></td>
-                    <td>4.879</td>
-                    <td>5427</td>
-                    <td>3.7</td>
-                    <td>4222.6</td>
-                    <td>57.9</td>
-                    <td>167</td>
-                    <td>0</td>
-                    <td>Closest to the Sun</td>
-                </tr>
-                <td rowspan="4"><b>Terrestrial Planets</b></td>
-                    <td><b>Mercury</b></td>
-                    <td>4.879</td>
-                    <td>5427</td>
-                    <td>3.7</td>
-                    <td>4222.6</td>
-                    <td>57.9</td>
-                    <td>167</td>
-                    <td>0</td>
-                    <td>Closest to the Sun</td>
                 </head>
                 <!-- The fourth child of the table element should be the table body element, which will contain the code and content to display rows of data. -->
                 <body>
-                    <tr></tr>
+                    <tr><td rowspan="4"><b>Terrestrial Planets</b></td>
+                        <td><b>Mercury</b></td>
+                        <td>4.879</td>
+                        <td>5427</td>
+                        <td>3.7</td>
+                        <td>4222.6</td>
+                        <td>57.9</td>
+                        <td>167</td>
+                        <td>0</td>
+                        <td>Closest to the Sun</td></tr>
                     <tr></tr>
                     <tr></tr>
                     <tr></tr>
