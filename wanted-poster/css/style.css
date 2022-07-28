@@ -110,7 +110,8 @@ h5 {text-transform: uppercase;
 section {margin-top: .5rem;
 
 }
-p {}
+p {margin-top: 1rem
+    margin-bottom: ;}
 
 /* Image & Figure */
 
