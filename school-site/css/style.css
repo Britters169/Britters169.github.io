@@ -134,6 +134,8 @@ ol{margin-bottom: 1rem;
 margin-right: 0rem;
 text-transform: lowercase;}
 
+.long-list {text-transform:  uppercase;}
+
 
 /* List Styling */
 
@@ -142,7 +144,21 @@ text-transform: lowercase;}
 
 /* Navigation Menu */
 
+nav {
+    padding-left: 0;
+    margin-top: 0.25rem;
+    
+}
 
+nav a {
+    text-decoration:none;
+    border: solid;
+    border-width: 0.063rem;
+    border-color: #33658A;
+    display: inline-block;
+    text-align: center;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
 
 
 
