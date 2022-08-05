@@ -113,7 +113,8 @@ p {font: size 0.75rem;
     letter-spacing: 0.031rem ;
     word-spacing: 0.125rem;}
 
-    li {outline: none;}
+    li {outline: none;
+    background-color: #33658A;}
 
 
 /* Link Styling */
@@ -126,7 +127,10 @@ html {@font-face {
 
   p.indent {text-indent: 1.5rem}
 
-
+ul {margin-bottom: 1rem;
+margin-right: 0rem;}
+ol{margin-bottom: 1rem;
+margin-right: 0rem;}
 
 
 /* List Styling */
