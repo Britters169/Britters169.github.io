@@ -104,7 +104,7 @@ header, footer {
 /* Link Styling */
 
 html {@font-face {
-    font-family: "Montserrat";
+    font-family: "Montserrat", Sans-Serif;
     src: url("/fonts/montserrat-regular.ttf") ,
         ;
   }}
