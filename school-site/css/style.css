@@ -109,7 +109,9 @@ h2 {
     letter-spacing: 0.125rem;
 }
 
-
+p {font: size 0.75rem;
+    letter-spacing: 0.031rem ;
+    word-spacing: 0.125rem;}
 
 
 /* Link Styling */
@@ -124,8 +126,6 @@ html {@font-face {
 
 
 /* List Styling */
-
-
 
 
 
