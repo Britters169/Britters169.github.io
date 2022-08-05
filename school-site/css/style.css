@@ -113,6 +113,8 @@ p {font: size 0.75rem;
     letter-spacing: 0.031rem ;
     word-spacing: 0.125rem;}
 
+    li {outline: none;}
+
 
 /* Link Styling */
 
