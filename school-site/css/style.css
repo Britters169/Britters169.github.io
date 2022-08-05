@@ -128,9 +128,11 @@ html {@font-face {
   p.indent {text-indent: 1.5rem}
 
 ul {margin-bottom: 1rem;
-margin-right: 0rem;}
+margin-right: 0rem;
+list-style-type: square;}
 ol{margin-bottom: 1rem;
-margin-right: 0rem;}
+margin-right: 0rem;
+text-transform: lowercase;}
 
 
 /* List Styling */
