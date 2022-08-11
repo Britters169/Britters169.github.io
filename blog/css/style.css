@@ -66,4 +66,5 @@ li {display: inline;
     padding-bottom: .5rem;
     color: black;}
 
-img {float: right;}
+img {float: left;}
+p {float: right;}
