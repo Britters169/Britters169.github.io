@@ -55,6 +55,7 @@ ul {list-style-type: none;
     border-bottom: solid;}
 
 li {display: inline;
-    padding: 1.5rem;}
+    padding: 1.5rem;
+    color: black;}
 
 h1 {transform: rotate(90deg);}
