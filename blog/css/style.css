@@ -66,4 +66,5 @@ li {display: inline;
     padding-bottom: 1rem;
     color: black;}
 
-img {float: left;}
+img {float: left;
+    border: 1rem;}
