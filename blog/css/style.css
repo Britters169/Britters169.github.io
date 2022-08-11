@@ -56,14 +56,14 @@ h1 {text-align: center;
 
 ul {list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 1rem;
     border-top: solid;
     border-bottom: solid;}
 
 li {display: inline;
     padding: 1.5rem;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     color: black;}
 
 img {float: left;}
