@@ -53,6 +53,7 @@ ul {list-style-type: none;
     padding: 0;
     border-top: solid;
     border-bottom: solid;}
+
 li {display: inline;}
 
-h1 .rotate {transform:rotate(90deg)}
+h1 {rotate: 90deg;}
