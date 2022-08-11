@@ -50,10 +50,11 @@
 
 ul {list-style-type: none;
     margin: 0;
-    padding: 1.5rem;
+    padding: 0;
     border-top: solid;
     border-bottom: solid;}
 
-li {display: inline;}
+li {display: inline;
+    padding: 1.5rem;}
 
 h1 {transform: rotate(90deg);}
