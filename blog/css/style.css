@@ -53,3 +53,4 @@ ul {list-style-type: none;
     padding: 0;
     border-top: solid;
     border-bottom: solid;}
+li {display: inline;}
