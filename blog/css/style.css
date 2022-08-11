@@ -48,17 +48,6 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
-@font-face {
-    font-family: sans-serif;
-    src: url(../fonts/ultra-regular.ttf);
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: montserrat;
-    src: url(../fonts/montserrat-regular.ttf);
-    font-weight: normal;
-    font-style: normal;
-}
-h1 {rotate: 90deg;
-font-family:sans-serif;}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;}
