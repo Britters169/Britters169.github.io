@@ -56,4 +56,4 @@ ul {list-style-type: none;
 
 li {display: inline;}
 
-h1 {rotate: 90deg;}
+h1 {transform: rotate(90deg);}
